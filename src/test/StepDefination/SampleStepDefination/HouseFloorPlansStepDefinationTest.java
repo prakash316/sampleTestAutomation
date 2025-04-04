@@ -1,4 +1,4 @@
-package bricnboltStepDefination;
+package SampleStepDefination;
 
 import org.testng.annotations.Parameters;
 
