@@ -8,4 +8,4 @@ Feature: Test the House floor plans
     And I verify Plot Dimensions changes
     And user should be able to nevigate to the Floor plans screen
     When I click on the arrow icon
-    Then User should be able details of floor plan
+    Then User should be able see the details of floor plan
